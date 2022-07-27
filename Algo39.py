@@ -1,5 +1,5 @@
 # Algo ML for SQL injection and request
-# creator : AMIOT Laura
+# creator : R3dB
 # ----- ----- -----  Imports ----- ----- ----- #
 import pandas as pd
 from pytz import unicode
